@@ -1,0 +1,22 @@
+# Java
+*.class
+
+# Python (ambiente virtual e cache)
+venv/
+__pycache__/
+*.pyc
+
+# IDE / editor
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# LaTeX (só se for compilar localmente, não necessário se usar Overleaf)
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
