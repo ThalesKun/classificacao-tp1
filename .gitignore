@@ -25,3 +25,6 @@ analise/estatisticas.csv
 analise/barras_tempo_medio.png
 analise/boxplot_tempo.png
 analise/dispersao_tempo_vs_tamanho.png
+
+# Saida bruta do ExperimentoDesempenho (resultados versionados ficam em resultados_<nome>.csv)
+resultados.csv
