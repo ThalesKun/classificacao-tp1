@@ -20,3 +20,8 @@ Thumbs.db
 *.out
 *.toc
 *.synctex.gz
+# Saidas de exemplo do analise.py (recriadas ao rodar o script)
+analise/estatisticas.csv
+analise/barras_tempo_medio.png
+analise/boxplot_tempo.png
+analise/dispersao_tempo_vs_tamanho.png
