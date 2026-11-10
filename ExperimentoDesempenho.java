@@ -21,7 +21,7 @@ public class ExperimentoDesempenho {
     // ---------------------------------------------------------------
     // CONFIGURACAO DO EXPERIMENTO - ajuste aqui se precisar
     // ---------------------------------------------------------------
-    private static final int[] TAMANHOS = {1_000, 10_000};
+    private static final int[] TAMANHOS = {1_000, 10_000, 100_000, 1_000_000};
     private static final String[] ORDENACOES = {"crescente", "decrescente", "aleatorio"};
     private static final int REPETICOES_WARMUP = 3; // execucoes de aquecimento da JVM, descartadas
     private static final long SEED_BASE = 20261020L; // fixa para reprodutibilidade
